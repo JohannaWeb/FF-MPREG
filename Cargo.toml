@@ -2,6 +2,9 @@
 name = "ffmpreg"
 version = "0.1.0"
 edition = "2021"
+license = "MPL-2.0"
+description = "Video encode/decode/transcode CLI in Rust via FFmpeg"
+repository = "https://github.com/JohannaWeb/FF-MPREG"
 
 [dependencies]
 ffmpeg-next = "6"
