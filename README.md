@@ -1,4 +1,5 @@
 # ffmpreg
+<img width="1128" height="1600" alt="image" src="https://github.com/user-attachments/assets/94464371-b50e-4395-a14f-2700095cd09a" />
 
 A video encoding, decoding, and processing CLI written in Rust, built on top of [FFmpeg](https://ffmpeg.org/) via the [`ffmpeg-next`](https://crates.io/crates/ffmpeg-next) bindings.
 
